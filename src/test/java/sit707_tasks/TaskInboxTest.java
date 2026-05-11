@@ -27,6 +27,7 @@ public class TaskInboxTest {
     public void testStudentIdentity() {
     	String studentId = null;
         Assert.assertNotNull("Student ID is null", studentId);
+        
     }
 
     @Test
